@@ -10,7 +10,7 @@
 
 **A stunning, fully animated AI-themed portfolio showcasing cutting-edge web design**
 
-[🌐 Live Demo](#) | [📸 Screenshots](#screenshots) | [✨ Features](#features) | [🚀 Quick Start](#quick-start)
+[🌐 Live Demo](https://mitulaghara.github.io/Futuristic-Portfolio/) | [📸 Screenshots](#screenshots) | [✨ Features](#features) | [🚀 Quick Start](#quick-start)
 
 </div>
 
